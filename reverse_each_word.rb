@@ -3,5 +3,4 @@ def reverse_each_word(str)
   arr.map do |x|
     puts x.reverse
   end
-  return arr.join(" ")
 end
